@@ -6,4 +6,5 @@
     bcryptjs 
     validator
     npm i -D nodemon
+    concurrently
 }
