@@ -8,3 +8,9 @@
     npm i -D nodemon
     concurrently
 }
+
+client:
+{
+    react-router-dom
+    axios
+}
